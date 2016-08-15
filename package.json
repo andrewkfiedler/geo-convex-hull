@@ -1,0 +1,25 @@
+{
+  "name": "geo-convex-hull",
+  "version": "1.3.0",
+  "description": "Calculate the convex hull for a set of latitudes and longitudes.",
+  "main": "geo-convex-hull.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andrewkfiedler/geo-convex-hull.git"
+  },
+  "keywords": [
+    "convex",
+    "hull",
+    "geo",
+    "lat",
+    "lng",
+    "latitude",
+    "longitude"
+  ],
+  "author": "Andrew Fiedler",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andrewkfiedler/geo-convex-hull/issues"
+  },
+  "homepage": "https://github.com/andrewkfiedler/geo-convex-hull"
+}
